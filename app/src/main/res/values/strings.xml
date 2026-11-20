@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Biblia en 90 días</string>
+    <string name="reminder_channel_name">Recordatorio de lectura</string>
+    <string name="reminder_channel_description">Aviso diario para tu lectura del plan</string>
+    <string name="reminder_title">Tu lectura de hoy te espera</string>
+    <string name="reminder_text">Día %1$d: %2$s · ~%3$d min</string>
+</resources>

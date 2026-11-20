@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Biblia90" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/splash_background</item>
+    </style>
+</resources>
