@@ -1,0 +1,1549 @@
+{
+  "id": "canonico-90",
+  "nombre": "Canónico en 90 días",
+  "total_capitulos": 1189,
+  "dias": [
+    {
+      "dia": 1,
+      "lecturas": [
+        {
+          "libro": "GEN",
+          "nombre": "Génesis",
+          "desde": 1,
+          "hasta": 12
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 368
+    },
+    {
+      "dia": 2,
+      "lecturas": [
+        {
+          "libro": "GEN",
+          "nombre": "Génesis",
+          "desde": 13,
+          "hasta": 23
+        }
+      ],
+      "capitulos": 11,
+      "versiculos_estimados": 337
+    },
+    {
+      "dia": 3,
+      "lecturas": [
+        {
+          "libro": "GEN",
+          "nombre": "Génesis",
+          "desde": 24,
+          "hasta": 34
+        }
+      ],
+      "capitulos": 11,
+      "versiculos_estimados": 337
+    },
+    {
+      "dia": 4,
+      "lecturas": [
+        {
+          "libro": "GEN",
+          "nombre": "Génesis",
+          "desde": 35,
+          "hasta": 46
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 368
+    },
+    {
+      "dia": 5,
+      "lecturas": [
+        {
+          "libro": "GEN",
+          "nombre": "Génesis",
+          "desde": 47,
+          "hasta": 50
+        },
+        {
+          "libro": "EXO",
+          "nombre": "Éxodo",
+          "desde": 1,
+          "hasta": 7
+        }
+      ],
+      "capitulos": 11,
+      "versiculos_estimados": 335
+    },
+    {
+      "dia": 6,
+      "lecturas": [
+        {
+          "libro": "EXO",
+          "nombre": "Éxodo",
+          "desde": 8,
+          "hasta": 18
+        }
+      ],
+      "capitulos": 11,
+      "versiculos_estimados": 334
+    },
+    {
+      "dia": 7,
+      "lecturas": [
+        {
+          "libro": "EXO",
+          "nombre": "Éxodo",
+          "desde": 19,
+          "hasta": 30
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 364
+    },
+    {
+      "dia": 8,
+      "lecturas": [
+        {
+          "libro": "EXO",
+          "nombre": "Éxodo",
+          "desde": 31,
+          "hasta": 40
+        },
+        {
+          "libro": "LEV",
+          "nombre": "Levítico",
+          "desde": 1,
+          "hasta": 1
+        }
+      ],
+      "capitulos": 11,
+      "versiculos_estimados": 335
+    },
+    {
+      "dia": 9,
+      "lecturas": [
+        {
+          "libro": "LEV",
+          "nombre": "Levítico",
+          "desde": 2,
+          "hasta": 12
+        }
+      ],
+      "capitulos": 11,
+      "versiculos_estimados": 350
+    },
+    {
+      "dia": 10,
+      "lecturas": [
+        {
+          "libro": "LEV",
+          "nombre": "Levítico",
+          "desde": 13,
+          "hasta": 23
+        }
+      ],
+      "capitulos": 11,
+      "versiculos_estimados": 350
+    },
+    {
+      "dia": 11,
+      "lecturas": [
+        {
+          "libro": "LEV",
+          "nombre": "Levítico",
+          "desde": 24,
+          "hasta": 27
+        },
+        {
+          "libro": "NUM",
+          "nombre": "Números",
+          "desde": 1,
+          "hasta": 6
+        }
+      ],
+      "capitulos": 10,
+      "versiculos_estimados": 342
+    },
+    {
+      "dia": 12,
+      "lecturas": [
+        {
+          "libro": "NUM",
+          "nombre": "Números",
+          "desde": 7,
+          "hasta": 16
+        }
+      ],
+      "capitulos": 10,
+      "versiculos_estimados": 358
+    },
+    {
+      "dia": 13,
+      "lecturas": [
+        {
+          "libro": "NUM",
+          "nombre": "Números",
+          "desde": 17,
+          "hasta": 25
+        }
+      ],
+      "capitulos": 9,
+      "versiculos_estimados": 322
+    },
+    {
+      "dia": 14,
+      "lecturas": [
+        {
+          "libro": "NUM",
+          "nombre": "Números",
+          "desde": 26,
+          "hasta": 35
+        }
+      ],
+      "capitulos": 10,
+      "versiculos_estimados": 358
+    },
+    {
+      "dia": 15,
+      "lecturas": [
+        {
+          "libro": "NUM",
+          "nombre": "Números",
+          "desde": 36,
+          "hasta": 36
+        },
+        {
+          "libro": "DEU",
+          "nombre": "Deuteronomio",
+          "desde": 1,
+          "hasta": 11
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 346
+    },
+    {
+      "dia": 16,
+      "lecturas": [
+        {
+          "libro": "DEU",
+          "nombre": "Deuteronomio",
+          "desde": 12,
+          "hasta": 23
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 338
+    },
+    {
+      "dia": 17,
+      "lecturas": [
+        {
+          "libro": "DEU",
+          "nombre": "Deuteronomio",
+          "desde": 24,
+          "hasta": 34
+        },
+        {
+          "libro": "JOS",
+          "nombre": "Josué",
+          "desde": 1,
+          "hasta": 1
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 338
+    },
+    {
+      "dia": 18,
+      "lecturas": [
+        {
+          "libro": "JOS",
+          "nombre": "Josué",
+          "desde": 2,
+          "hasta": 14
+        }
+      ],
+      "capitulos": 13,
+      "versiculos_estimados": 356
+    },
+    {
+      "dia": 19,
+      "lecturas": [
+        {
+          "libro": "JOS",
+          "nombre": "Josué",
+          "desde": 15,
+          "hasta": 24
+        },
+        {
+          "libro": "JDG",
+          "nombre": "Jueces",
+          "desde": 1,
+          "hasta": 2
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 333
+    },
+    {
+      "dia": 20,
+      "lecturas": [
+        {
+          "libro": "JDG",
+          "nombre": "Jueces",
+          "desde": 3,
+          "hasta": 14
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 353
+    },
+    {
+      "dia": 21,
+      "lecturas": [
+        {
+          "libro": "JDG",
+          "nombre": "Jueces",
+          "desde": 15,
+          "hasta": 21
+        },
+        {
+          "libro": "RUT",
+          "nombre": "Rut",
+          "desde": 1,
+          "hasta": 4
+        },
+        {
+          "libro": "1SA",
+          "nombre": "1 Samuel",
+          "desde": 1,
+          "hasta": 2
+        }
+      ],
+      "capitulos": 13,
+      "versiculos_estimados": 343
+    },
+    {
+      "dia": 22,
+      "lecturas": [
+        {
+          "libro": "1SA",
+          "nombre": "1 Samuel",
+          "desde": 3,
+          "hasta": 15
+        }
+      ],
+      "capitulos": 13,
+      "versiculos_estimados": 340
+    },
+    {
+      "dia": 23,
+      "lecturas": [
+        {
+          "libro": "1SA",
+          "nombre": "1 Samuel",
+          "desde": 16,
+          "hasta": 29
+        }
+      ],
+      "capitulos": 14,
+      "versiculos_estimados": 366
+    },
+    {
+      "dia": 24,
+      "lecturas": [
+        {
+          "libro": "1SA",
+          "nombre": "1 Samuel",
+          "desde": 30,
+          "hasta": 31
+        },
+        {
+          "libro": "2SA",
+          "nombre": "2 Samuel",
+          "desde": 1,
+          "hasta": 10
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 342
+    },
+    {
+      "dia": 25,
+      "lecturas": [
+        {
+          "libro": "2SA",
+          "nombre": "2 Samuel",
+          "desde": 11,
+          "hasta": 22
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 348
+    },
+    {
+      "dia": 26,
+      "lecturas": [
+        {
+          "libro": "2SA",
+          "nombre": "2 Samuel",
+          "desde": 23,
+          "hasta": 24
+        },
+        {
+          "libro": "1KI",
+          "nombre": "1 Reyes",
+          "desde": 1,
+          "hasta": 8
+        }
+      ],
+      "capitulos": 10,
+      "versiculos_estimados": 355
+    },
+    {
+      "dia": 27,
+      "lecturas": [
+        {
+          "libro": "1KI",
+          "nombre": "1 Reyes",
+          "desde": 9,
+          "hasta": 17
+        }
+      ],
+      "capitulos": 9,
+      "versiculos_estimados": 334
+    },
+    {
+      "dia": 28,
+      "lecturas": [
+        {
+          "libro": "1KI",
+          "nombre": "1 Reyes",
+          "desde": 18,
+          "hasta": 22
+        },
+        {
+          "libro": "2KI",
+          "nombre": "2 Reyes",
+          "desde": 1,
+          "hasta": 5
+        }
+      ],
+      "capitulos": 10,
+      "versiculos_estimados": 329
+    },
+    {
+      "dia": 29,
+      "lecturas": [
+        {
+          "libro": "2KI",
+          "nombre": "2 Reyes",
+          "desde": 6,
+          "hasta": 17
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 345
+    },
+    {
+      "dia": 30,
+      "lecturas": [
+        {
+          "libro": "2KI",
+          "nombre": "2 Reyes",
+          "desde": 18,
+          "hasta": 25
+        },
+        {
+          "libro": "1CH",
+          "nombre": "1 Crónicas",
+          "desde": 1,
+          "hasta": 4
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 360
+    },
+    {
+      "dia": 31,
+      "lecturas": [
+        {
+          "libro": "1CH",
+          "nombre": "1 Crónicas",
+          "desde": 5,
+          "hasta": 15
+        }
+      ],
+      "capitulos": 11,
+      "versiculos_estimados": 357
+    },
+    {
+      "dia": 32,
+      "lecturas": [
+        {
+          "libro": "1CH",
+          "nombre": "1 Crónicas",
+          "desde": 16,
+          "hasta": 25
+        }
+      ],
+      "capitulos": 10,
+      "versiculos_estimados": 325
+    },
+    {
+      "dia": 33,
+      "lecturas": [
+        {
+          "libro": "1CH",
+          "nombre": "1 Crónicas",
+          "desde": 26,
+          "hasta": 29
+        },
+        {
+          "libro": "2CH",
+          "nombre": "2 Crónicas",
+          "desde": 1,
+          "hasta": 10
+        }
+      ],
+      "capitulos": 14,
+      "versiculos_estimados": 358
+    },
+    {
+      "dia": 34,
+      "lecturas": [
+        {
+          "libro": "2CH",
+          "nombre": "2 Crónicas",
+          "desde": 11,
+          "hasta": 25
+        }
+      ],
+      "capitulos": 15,
+      "versiculos_estimados": 342
+    },
+    {
+      "dia": 35,
+      "lecturas": [
+        {
+          "libro": "2CH",
+          "nombre": "2 Crónicas",
+          "desde": 26,
+          "hasta": 36
+        },
+        {
+          "libro": "EZR",
+          "nombre": "Esdras",
+          "desde": 1,
+          "hasta": 3
+        }
+      ],
+      "capitulos": 14,
+      "versiculos_estimados": 335
+    },
+    {
+      "dia": 36,
+      "lecturas": [
+        {
+          "libro": "EZR",
+          "nombre": "Esdras",
+          "desde": 4,
+          "hasta": 10
+        },
+        {
+          "libro": "NEH",
+          "nombre": "Nehemías",
+          "desde": 1,
+          "hasta": 5
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 352
+    },
+    {
+      "dia": 37,
+      "lecturas": [
+        {
+          "libro": "NEH",
+          "nombre": "Nehemías",
+          "desde": 6,
+          "hasta": 13
+        },
+        {
+          "libro": "EST",
+          "nombre": "Ester",
+          "desde": 1,
+          "hasta": 5
+        }
+      ],
+      "capitulos": 13,
+      "versiculos_estimados": 333
+    },
+    {
+      "dia": 38,
+      "lecturas": [
+        {
+          "libro": "EST",
+          "nombre": "Ester",
+          "desde": 6,
+          "hasta": 10
+        },
+        {
+          "libro": "JOB",
+          "nombre": "Job",
+          "desde": 1,
+          "hasta": 11
+        }
+      ],
+      "capitulos": 16,
+      "versiculos_estimados": 364
+    },
+    {
+      "dia": 39,
+      "lecturas": [
+        {
+          "libro": "JOB",
+          "nombre": "Job",
+          "desde": 12,
+          "hasta": 24
+        }
+      ],
+      "capitulos": 13,
+      "versiculos_estimados": 331
+    },
+    {
+      "dia": 40,
+      "lecturas": [
+        {
+          "libro": "JOB",
+          "nombre": "Job",
+          "desde": 25,
+          "hasta": 38
+        }
+      ],
+      "capitulos": 14,
+      "versiculos_estimados": 357
+    },
+    {
+      "dia": 41,
+      "lecturas": [
+        {
+          "libro": "JOB",
+          "nombre": "Job",
+          "desde": 39,
+          "hasta": 42
+        },
+        {
+          "libro": "PSA",
+          "nombre": "Salmos",
+          "desde": 1,
+          "hasta": 14
+        }
+      ],
+      "capitulos": 18,
+      "versiculos_estimados": 332
+    },
+    {
+      "dia": 42,
+      "lecturas": [
+        {
+          "libro": "PSA",
+          "nombre": "Salmos",
+          "desde": 15,
+          "hasta": 36
+        }
+      ],
+      "capitulos": 22,
+      "versiculos_estimados": 361
+    },
+    {
+      "dia": 43,
+      "lecturas": [
+        {
+          "libro": "PSA",
+          "nombre": "Salmos",
+          "desde": 37,
+          "hasta": 57
+        }
+      ],
+      "capitulos": 21,
+      "versiculos_estimados": 345
+    },
+    {
+      "dia": 44,
+      "lecturas": [
+        {
+          "libro": "PSA",
+          "nombre": "Salmos",
+          "desde": 58,
+          "hasta": 78
+        }
+      ],
+      "capitulos": 21,
+      "versiculos_estimados": 345
+    },
+    {
+      "dia": 45,
+      "lecturas": [
+        {
+          "libro": "PSA",
+          "nombre": "Salmos",
+          "desde": 79,
+          "hasta": 99
+        }
+      ],
+      "capitulos": 21,
+      "versiculos_estimados": 345
+    },
+    {
+      "dia": 46,
+      "lecturas": [
+        {
+          "libro": "PSA",
+          "nombre": "Salmos",
+          "desde": 100,
+          "hasta": 120
+        }
+      ],
+      "capitulos": 21,
+      "versiculos_estimados": 345
+    },
+    {
+      "dia": 47,
+      "lecturas": [
+        {
+          "libro": "PSA",
+          "nombre": "Salmos",
+          "desde": 121,
+          "hasta": 141
+        }
+      ],
+      "capitulos": 21,
+      "versiculos_estimados": 345
+    },
+    {
+      "dia": 48,
+      "lecturas": [
+        {
+          "libro": "PSA",
+          "nombre": "Salmos",
+          "desde": 142,
+          "hasta": 150
+        },
+        {
+          "libro": "PRO",
+          "nombre": "Proverbios",
+          "desde": 1,
+          "hasta": 7
+        }
+      ],
+      "capitulos": 16,
+      "versiculos_estimados": 354
+    },
+    {
+      "dia": 49,
+      "lecturas": [
+        {
+          "libro": "PRO",
+          "nombre": "Proverbios",
+          "desde": 8,
+          "hasta": 19
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 354
+    },
+    {
+      "dia": 50,
+      "lecturas": [
+        {
+          "libro": "PRO",
+          "nombre": "Proverbios",
+          "desde": 20,
+          "hasta": 30
+        }
+      ],
+      "capitulos": 11,
+      "versiculos_estimados": 325
+    },
+    {
+      "dia": 51,
+      "lecturas": [
+        {
+          "libro": "PRO",
+          "nombre": "Proverbios",
+          "desde": 31,
+          "hasta": 31
+        },
+        {
+          "libro": "ECC",
+          "nombre": "Eclesiastés",
+          "desde": 1,
+          "hasta": 12
+        },
+        {
+          "libro": "SNG",
+          "nombre": "Cantares",
+          "desde": 1,
+          "hasta": 6
+        }
+      ],
+      "capitulos": 19,
+      "versiculos_estimados": 339
+    },
+    {
+      "dia": 52,
+      "lecturas": [
+        {
+          "libro": "SNG",
+          "nombre": "Cantares",
+          "desde": 7,
+          "hasta": 8
+        },
+        {
+          "libro": "ISA",
+          "nombre": "Isaías",
+          "desde": 1,
+          "hasta": 17
+        }
+      ],
+      "capitulos": 19,
+      "versiculos_estimados": 362
+    },
+    {
+      "dia": 53,
+      "lecturas": [
+        {
+          "libro": "ISA",
+          "nombre": "Isaías",
+          "desde": 18,
+          "hasta": 34
+        }
+      ],
+      "capitulos": 17,
+      "versiculos_estimados": 333
+    },
+    {
+      "dia": 54,
+      "lecturas": [
+        {
+          "libro": "ISA",
+          "nombre": "Isaías",
+          "desde": 35,
+          "hasta": 52
+        }
+      ],
+      "capitulos": 18,
+      "versiculos_estimados": 352
+    },
+    {
+      "dia": 55,
+      "lecturas": [
+        {
+          "libro": "ISA",
+          "nombre": "Isaías",
+          "desde": 53,
+          "hasta": 66
+        },
+        {
+          "libro": "JER",
+          "nombre": "Jeremías",
+          "desde": 1,
+          "hasta": 3
+        }
+      ],
+      "capitulos": 17,
+      "versiculos_estimados": 353
+    },
+    {
+      "dia": 56,
+      "lecturas": [
+        {
+          "libro": "JER",
+          "nombre": "Jeremías",
+          "desde": 4,
+          "hasta": 16
+        }
+      ],
+      "capitulos": 13,
+      "versiculos_estimados": 341
+    },
+    {
+      "dia": 57,
+      "lecturas": [
+        {
+          "libro": "JER",
+          "nombre": "Jeremías",
+          "desde": 17,
+          "hasta": 29
+        }
+      ],
+      "capitulos": 13,
+      "versiculos_estimados": 341
+    },
+    {
+      "dia": 58,
+      "lecturas": [
+        {
+          "libro": "JER",
+          "nombre": "Jeremías",
+          "desde": 30,
+          "hasta": 42
+        }
+      ],
+      "capitulos": 13,
+      "versiculos_estimados": 341
+    },
+    {
+      "dia": 59,
+      "lecturas": [
+        {
+          "libro": "JER",
+          "nombre": "Jeremías",
+          "desde": 43,
+          "hasta": 52
+        },
+        {
+          "libro": "LAM",
+          "nombre": "Lamentaciones",
+          "desde": 1,
+          "hasta": 3
+        }
+      ],
+      "capitulos": 13,
+      "versiculos_estimados": 355
+    },
+    {
+      "dia": 60,
+      "lecturas": [
+        {
+          "libro": "LAM",
+          "nombre": "Lamentaciones",
+          "desde": 4,
+          "hasta": 5
+        },
+        {
+          "libro": "EZK",
+          "nombre": "Ezequiel",
+          "desde": 1,
+          "hasta": 11
+        }
+      ],
+      "capitulos": 13,
+      "versiculos_estimados": 353
+    },
+    {
+      "dia": 61,
+      "lecturas": [
+        {
+          "libro": "EZK",
+          "nombre": "Ezequiel",
+          "desde": 12,
+          "hasta": 24
+        }
+      ],
+      "capitulos": 13,
+      "versiculos_estimados": 345
+    },
+    {
+      "dia": 62,
+      "lecturas": [
+        {
+          "libro": "EZK",
+          "nombre": "Ezequiel",
+          "desde": 25,
+          "hasta": 37
+        }
+      ],
+      "capitulos": 13,
+      "versiculos_estimados": 345
+    },
+    {
+      "dia": 63,
+      "lecturas": [
+        {
+          "libro": "EZK",
+          "nombre": "Ezequiel",
+          "desde": 38,
+          "hasta": 48
+        },
+        {
+          "libro": "DAN",
+          "nombre": "Daniel",
+          "desde": 1,
+          "hasta": 2
+        }
+      ],
+      "capitulos": 13,
+      "versiculos_estimados": 351
+    },
+    {
+      "dia": 64,
+      "lecturas": [
+        {
+          "libro": "DAN",
+          "nombre": "Daniel",
+          "desde": 3,
+          "hasta": 12
+        },
+        {
+          "libro": "HOS",
+          "nombre": "Oseas",
+          "desde": 1,
+          "hasta": 2
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 326
+    },
+    {
+      "dia": 65,
+      "lecturas": [
+        {
+          "libro": "HOS",
+          "nombre": "Oseas",
+          "desde": 3,
+          "hasta": 14
+        },
+        {
+          "libro": "JOL",
+          "nombre": "Joel",
+          "desde": 1,
+          "hasta": 3
+        },
+        {
+          "libro": "AMO",
+          "nombre": "Amós",
+          "desde": 1,
+          "hasta": 7
+        }
+      ],
+      "capitulos": 22,
+      "versiculos_estimados": 355
+    },
+    {
+      "dia": 66,
+      "lecturas": [
+        {
+          "libro": "AMO",
+          "nombre": "Amós",
+          "desde": 8,
+          "hasta": 9
+        },
+        {
+          "libro": "OBA",
+          "nombre": "Abdías",
+          "desde": 1,
+          "hasta": 1
+        },
+        {
+          "libro": "JON",
+          "nombre": "Jonás",
+          "desde": 1,
+          "hasta": 4
+        },
+        {
+          "libro": "MIC",
+          "nombre": "Miqueas",
+          "desde": 1,
+          "hasta": 7
+        },
+        {
+          "libro": "NAM",
+          "nombre": "Nahúm",
+          "desde": 1,
+          "hasta": 3
+        },
+        {
+          "libro": "HAB",
+          "nombre": "Habacuc",
+          "desde": 1,
+          "hasta": 3
+        },
+        {
+          "libro": "ZEP",
+          "nombre": "Sofonías",
+          "desde": 1,
+          "hasta": 2
+        }
+      ],
+      "capitulos": 22,
+      "versiculos_estimados": 345
+    },
+    {
+      "dia": 67,
+      "lecturas": [
+        {
+          "libro": "ZEP",
+          "nombre": "Sofonías",
+          "desde": 3,
+          "hasta": 3
+        },
+        {
+          "libro": "HAG",
+          "nombre": "Hageo",
+          "desde": 1,
+          "hasta": 2
+        },
+        {
+          "libro": "ZEC",
+          "nombre": "Zacarías",
+          "desde": 1,
+          "hasta": 14
+        },
+        {
+          "libro": "MAL",
+          "nombre": "Malaquías",
+          "desde": 1,
+          "hasta": 4
+        },
+        {
+          "libro": "MAT",
+          "nombre": "Mateo",
+          "desde": 1,
+          "hasta": 1
+        }
+      ],
+      "capitulos": 22,
+      "versiculos_estimados": 360
+    },
+    {
+      "dia": 68,
+      "lecturas": [
+        {
+          "libro": "MAT",
+          "nombre": "Mateo",
+          "desde": 2,
+          "hasta": 10
+        }
+      ],
+      "capitulos": 9,
+      "versiculos_estimados": 344
+    },
+    {
+      "dia": 69,
+      "lecturas": [
+        {
+          "libro": "MAT",
+          "nombre": "Mateo",
+          "desde": 11,
+          "hasta": 19
+        }
+      ],
+      "capitulos": 9,
+      "versiculos_estimados": 344
+    },
+    {
+      "dia": 70,
+      "lecturas": [
+        {
+          "libro": "MAT",
+          "nombre": "Mateo",
+          "desde": 20,
+          "hasta": 28
+        }
+      ],
+      "capitulos": 9,
+      "versiculos_estimados": 344
+    },
+    {
+      "dia": 71,
+      "lecturas": [
+        {
+          "libro": "MRK",
+          "nombre": "Marcos",
+          "desde": 1,
+          "hasta": 8
+        }
+      ],
+      "capitulos": 8,
+      "versiculos_estimados": 339
+    },
+    {
+      "dia": 72,
+      "lecturas": [
+        {
+          "libro": "MRK",
+          "nombre": "Marcos",
+          "desde": 9,
+          "hasta": 16
+        }
+      ],
+      "capitulos": 8,
+      "versiculos_estimados": 339
+    },
+    {
+      "dia": 73,
+      "lecturas": [
+        {
+          "libro": "LUK",
+          "nombre": "Lucas",
+          "desde": 1,
+          "hasta": 7
+        }
+      ],
+      "capitulos": 7,
+      "versiculos_estimados": 336
+    },
+    {
+      "dia": 74,
+      "lecturas": [
+        {
+          "libro": "LUK",
+          "nombre": "Lucas",
+          "desde": 8,
+          "hasta": 15
+        }
+      ],
+      "capitulos": 8,
+      "versiculos_estimados": 384
+    },
+    {
+      "dia": 75,
+      "lecturas": [
+        {
+          "libro": "LUK",
+          "nombre": "Lucas",
+          "desde": 16,
+          "hasta": 22
+        }
+      ],
+      "capitulos": 7,
+      "versiculos_estimados": 336
+    },
+    {
+      "dia": 76,
+      "lecturas": [
+        {
+          "libro": "LUK",
+          "nombre": "Lucas",
+          "desde": 23,
+          "hasta": 24
+        },
+        {
+          "libro": "JHN",
+          "nombre": "Juan",
+          "desde": 1,
+          "hasta": 6
+        }
+      ],
+      "capitulos": 8,
+      "versiculos_estimados": 347
+    },
+    {
+      "dia": 77,
+      "lecturas": [
+        {
+          "libro": "JHN",
+          "nombre": "Juan",
+          "desde": 7,
+          "hasta": 14
+        }
+      ],
+      "capitulos": 8,
+      "versiculos_estimados": 335
+    },
+    {
+      "dia": 78,
+      "lecturas": [
+        {
+          "libro": "JHN",
+          "nombre": "Juan",
+          "desde": 15,
+          "hasta": 21
+        },
+        {
+          "libro": "ACT",
+          "nombre": "Hechos",
+          "desde": 1,
+          "hasta": 1
+        }
+      ],
+      "capitulos": 8,
+      "versiculos_estimados": 329
+    },
+    {
+      "dia": 79,
+      "lecturas": [
+        {
+          "libro": "ACT",
+          "nombre": "Hechos",
+          "desde": 2,
+          "hasta": 11
+        }
+      ],
+      "capitulos": 10,
+      "versiculos_estimados": 360
+    },
+    {
+      "dia": 80,
+      "lecturas": [
+        {
+          "libro": "ACT",
+          "nombre": "Hechos",
+          "desde": 12,
+          "hasta": 21
+        }
+      ],
+      "capitulos": 10,
+      "versiculos_estimados": 360
+    },
+    {
+      "dia": 81,
+      "lecturas": [
+        {
+          "libro": "ACT",
+          "nombre": "Hechos",
+          "desde": 22,
+          "hasta": 28
+        },
+        {
+          "libro": "ROM",
+          "nombre": "Romanos",
+          "desde": 1,
+          "hasta": 3
+        }
+      ],
+      "capitulos": 10,
+      "versiculos_estimados": 333
+    },
+    {
+      "dia": 82,
+      "lecturas": [
+        {
+          "libro": "ROM",
+          "nombre": "Romanos",
+          "desde": 4,
+          "hasta": 16
+        }
+      ],
+      "capitulos": 13,
+      "versiculos_estimados": 352
+    },
+    {
+      "dia": 83,
+      "lecturas": [
+        {
+          "libro": "1CO",
+          "nombre": "1 Corintios",
+          "desde": 1,
+          "hasta": 12
+        }
+      ],
+      "capitulos": 12,
+      "versiculos_estimados": 328
+    },
+    {
+      "dia": 84,
+      "lecturas": [
+        {
+          "libro": "1CO",
+          "nombre": "1 Corintios",
+          "desde": 13,
+          "hasta": 16
+        },
+        {
+          "libro": "2CO",
+          "nombre": "2 Corintios",
+          "desde": 1,
+          "hasta": 12
+        }
+      ],
+      "capitulos": 16,
+      "versiculos_estimados": 346
+    },
+    {
+      "dia": 85,
+      "lecturas": [
+        {
+          "libro": "2CO",
+          "nombre": "2 Corintios",
+          "desde": 13,
+          "hasta": 13
+        },
+        {
+          "libro": "GAL",
+          "nombre": "Gálatas",
+          "desde": 1,
+          "hasta": 6
+        },
+        {
+          "libro": "EPH",
+          "nombre": "Efesios",
+          "desde": 1,
+          "hasta": 6
+        },
+        {
+          "libro": "PHP",
+          "nombre": "Filipenses",
+          "desde": 1,
+          "hasta": 1
+        }
+      ],
+      "capitulos": 14,
+      "versiculos_estimados": 350
+    },
+    {
+      "dia": 86,
+      "lecturas": [
+        {
+          "libro": "PHP",
+          "nombre": "Filipenses",
+          "desde": 2,
+          "hasta": 4
+        },
+        {
+          "libro": "COL",
+          "nombre": "Colosenses",
+          "desde": 1,
+          "hasta": 4
+        },
+        {
+          "libro": "1TH",
+          "nombre": "1 Tesalonicenses",
+          "desde": 1,
+          "hasta": 5
+        },
+        {
+          "libro": "2TH",
+          "nombre": "2 Tesalonicenses",
+          "desde": 1,
+          "hasta": 3
+        },
+        {
+          "libro": "1TI",
+          "nombre": "1 Timoteo",
+          "desde": 1,
+          "hasta": 2
+        }
+      ],
+      "capitulos": 17,
+      "versiculos_estimados": 347
+    },
+    {
+      "dia": 87,
+      "lecturas": [
+        {
+          "libro": "1TI",
+          "nombre": "1 Timoteo",
+          "desde": 3,
+          "hasta": 6
+        },
+        {
+          "libro": "2TI",
+          "nombre": "2 Timoteo",
+          "desde": 1,
+          "hasta": 4
+        },
+        {
+          "libro": "TIT",
+          "nombre": "Tito",
+          "desde": 1,
+          "hasta": 3
+        },
+        {
+          "libro": "PHM",
+          "nombre": "Filemón",
+          "desde": 1,
+          "hasta": 1
+        },
+        {
+          "libro": "HEB",
+          "nombre": "Hebreos",
+          "desde": 1,
+          "hasta": 5
+        }
+      ],
+      "capitulos": 17,
+      "versiculos_estimados": 346
+    },
+    {
+      "dia": 88,
+      "lecturas": [
+        {
+          "libro": "HEB",
+          "nombre": "Hebreos",
+          "desde": 6,
+          "hasta": 13
+        },
+        {
+          "libro": "JAS",
+          "nombre": "Santiago",
+          "desde": 1,
+          "hasta": 5
+        },
+        {
+          "libro": "1PE",
+          "nombre": "1 Pedro",
+          "desde": 1,
+          "hasta": 2
+        }
+      ],
+      "capitulos": 15,
+      "versiculos_estimados": 336
+    },
+    {
+      "dia": 89,
+      "lecturas": [
+        {
+          "libro": "1PE",
+          "nombre": "1 Pedro",
+          "desde": 3,
+          "hasta": 5
+        },
+        {
+          "libro": "2PE",
+          "nombre": "2 Pedro",
+          "desde": 1,
+          "hasta": 3
+        },
+        {
+          "libro": "1JN",
+          "nombre": "1 Juan",
+          "desde": 1,
+          "hasta": 5
+        },
+        {
+          "libro": "2JN",
+          "nombre": "2 Juan",
+          "desde": 1,
+          "hasta": 1
+        },
+        {
+          "libro": "3JN",
+          "nombre": "3 Juan",
+          "desde": 1,
+          "hasta": 1
+        },
+        {
+          "libro": "JUD",
+          "nombre": "Judas",
+          "desde": 1,
+          "hasta": 1
+        },
+        {
+          "libro": "REV",
+          "nombre": "Apocalipsis",
+          "desde": 1,
+          "hasta": 4
+        }
+      ],
+      "capitulos": 18,
+      "versiculos_estimados": 354
+    },
+    {
+      "dia": 90,
+      "lecturas": [
+        {
+          "libro": "REV",
+          "nombre": "Apocalipsis",
+          "desde": 5,
+          "hasta": 22
+        }
+      ],
+      "capitulos": 18,
+      "versiculos_estimados": 331
+    }
+  ]
+}
